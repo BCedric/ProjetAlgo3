@@ -1,0 +1,17 @@
+4
+insecte
+
+Chenipan
+Chrysacier
+Scarabrute
+
+insecte/poison
+Aspicot
+Coconfort
+Dardargnan
+Mimitoss
+Aéromite
+
+insecte/vol
+Papilusion
+Insécateur

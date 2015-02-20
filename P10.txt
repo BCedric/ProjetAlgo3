@@ -1,0 +1,13 @@
+10
+glace
+
+glace/eau
+Lamantine
+Crustabri
+Lokhlass
+
+glace/psy
+Lippoutou
+
+glace/vol
+Artikodin
